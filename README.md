@@ -1,8 +1,8 @@
-# RLTSquarePaymentMethod-Magento2
+# RLTSquareCreditCard-Magento2
 
 # Overview
 
-RLTSquare Payment Method is an extension for Magneto 2 which comprises of modular services. This extension helps in connecting different business payment methods to a global payment processing method and helps the customers to reduce the cost and complexity they had to face while carrying out different e-commerce operations. RLTSquare payment method will make the process of e-commerce transactions easy and swift. There are a number of ways in which this extension is going to make an impact like improving the revenue growth, improve the overall checkout experience, keep customer’s payment credentials safe and secure, options to use multiple payment methods and experience more mobile-friendly shopping.
+RLTSquare Credit Card is an extension for Magneto 2 which comprises of modular services. This extension helps in connecting different business payment methods to a global payment processing method and helps the customers to reduce the cost and complexity they had to face while carrying out different e-commerce operations. RLTSquare credit card will make the process of e-commerce transactions easy and swift. There are a number of ways in which this extension is going to make an impact like improving the revenue growth, improve the overall checkout experience, keep customer’s payment credentials safe and secure, options to use multiple payment methods and experience more mobile-friendly shopping.
 
 Here are some of the salient features for the extension:
 
